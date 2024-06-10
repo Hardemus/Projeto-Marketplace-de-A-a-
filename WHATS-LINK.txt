@@ -1,0 +1,1 @@
+https://api.whatsapp.com/send?phone=5541777777777&text=Seu pedido foi recebido, confira agora o número do pedido a lista de produtos e o boleto para pagamento: "
